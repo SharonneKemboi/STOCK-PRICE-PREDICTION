@@ -10,6 +10,7 @@
 
 This repository contains a comprehensive pipeline for stock market price analysis, which builds an LSTM-based predictive model to forecast future stock prices. It uses real historical data from Yahoo Finance and applies data preprocessing, feature engineering, technical analysis, and deep learning for accurate predictions.
 
+![StockPrice](STOCKS.PNG)
 
 ### Key Objectives
 
@@ -36,7 +37,7 @@ This repository contains a comprehensive pipeline for stock market price analysi
 
 
 ### Option 1: Google Colab (Recommended)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SharonneKemboi/STOCK-PRICE-PREDICTION/blob/main/stock_analysis_explained.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SharonneKemboi/STOCK-PRICE-PREDICTION/blob/main/Stock_Price_Prediction_Using_LSTM.ipynb)
 
 1. Click the "Open in Colab" button above
 2. Run all cells sequentially
@@ -47,7 +48,7 @@ This repository contains a comprehensive pipeline for stock market price analysi
 git clone https://github.com/SharonneKemboi/STOCK-PRICE-PREDICTION.git
 cd STOCK-PRICE-PREDICTION
 pip install -r requirements.txt
-jupyter notebook stock_analysis_explained.ipynb
+jupyter notebook Stock_Price_Prediction_Using_LSTM.ipynb
 ```
 
 ##  Dependencies
