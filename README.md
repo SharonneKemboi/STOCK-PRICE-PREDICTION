@@ -1,5 +1,5 @@
 # Stock Price Analysis & Prediction using LSTM
-> **A comprehensive educational project demonstrating stock market analysis and price prediction using LSTM neural networks. Perfect for learning financial data science!**
+> **A Data Science project demonstrating stock market analysis and price prediction using LSTM neural networks.**
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.8+-orange.svg)
