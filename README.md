@@ -37,7 +37,8 @@ This repository contains a comprehensive pipeline for stock market price analysi
 
 
 ### Option 1: Google Colab (Recommended)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SharonneKemboi/STOCK-PRICE-PREDICTION/blob/main/Stock_Price_Prediction_Using_LSTM.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SharonneKemboi/STOCK-PRICE-PREDICTION/blob/master/Stock_Price_Prediction_Using_LSTM.ipynb)
 
 1. Click the "Open in Colab" button above
 2. Run all cells sequentially
